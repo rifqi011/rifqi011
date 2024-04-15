@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Eifqi Banu Safingi
 - 👀 I’m interested in Programmin, Aviation, Racing, and Anime
 - 🌱 I’m currently learning Javascript, C#
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<!-- - 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ... -->
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm not gay
 
