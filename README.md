@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Eifqi Banu Safingi
-- 👀 I’m interested in Programmin, Aviation, Racing, and Anime
+- 👋 Hi, I’m Rifqi Banu Safingi
+- 👀 I’m interested in Programming, Aviation, Racing, and Anime
 - 🌱 I’m currently learning Javascript, C#
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm not gay
+- ⚡ Fun fact: I'm not gay, I have a Girlfriend
 
 <!---
 rifqi011/rifqi011 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
