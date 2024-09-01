@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rifqi Banu Safingi
 - 👀 I’m interested in Programming, Aviation, Racing, and Anime
-- 🌱 I’m currently learning Javascript, C#
+- 🌱 I’m currently learning Javascript, Java, and PHP
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm not gay, I have a Girlfriend
 
